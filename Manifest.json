@@ -1,7 +1,7 @@
 {
   "name": "LOTO Mobile Designer",
   "short_name": "LOTO Pro",
-  "start_url": "index.html",
+  "start_url": "Index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#b91c1c",
@@ -13,4 +13,5 @@
       "type": "image/png"
     }
   ]
+
 }
